@@ -1,8 +1,4 @@
----
-layout: page
-title: Начало
-permalink: /Начало/
----
+
 
 ## Welcome to GitHub Pages
 
